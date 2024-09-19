@@ -4,8 +4,8 @@ This is a solution to an assignment by Web3 Bridge to the Blog preview card chal
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Mayokuun/Blog-Preview-Card)
+- Live Site URL: [Add live site URL here](https://beamish-daifuku-bd801e.netlify.app/)
 
 
 ## Author
