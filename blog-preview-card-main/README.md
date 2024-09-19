@@ -1,6 +1,6 @@
 # Web3 Bridge Assignment
 
-This is a solution to an assignment by Web3 Bridge to the Blog preview card challenge on Frontend Mentor.
+This is a solution to an assignment by Web3 Bridge to design the Blog preview card challenge on Frontend Mentor.
 
 ### Links
 
